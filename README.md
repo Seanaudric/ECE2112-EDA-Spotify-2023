@@ -9,7 +9,7 @@ The notebook uploaded contains Python codes that deal with different sample prob
 ## Contents
 
 ### Overview of Dataset
-In this section, these will be answered:
+In this section, these will be answered: <br>
 a) How many rows and columns does the dataset contain?  
 b) What are the data types of each column? Are there any missing values?
 
