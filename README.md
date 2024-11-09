@@ -1,4 +1,4 @@
-# ECE2112-EDA-Spotify-2023
+# Exploratory Data Analysis on Most Streamed Spotify Songs 2023
 
 Let's dive into the world of Spotify's top hits of 2023! 🎧🎶
 
@@ -6,15 +6,36 @@ This repository explores the most streamed songs of the year, uncovering fascina
 
 The notebook uploaded contains Python codes that deal with different sample problems given.
 
-## Given Problems
+## Contents
 
-### Problem 1: Create the following data frames based on the format provided: Example: Vis = [“Name”, “Gender”, “Track”, “Math<70”]; hometown is constant as Visayas.
-a) Filename: Instru = [“Name”, “GEAS”, “Electronics >70”]; where track is constant as Instrumentation and hometown Luzon.                              
-b) Filename: Mindy = [ “Name”, “Track”, “Electronics”, “Average >=55”]; where hometown is constant as Mindanao and gender Female.
+### Overview of Dataset
+In this section, these will be answered:
+a) How many rows and columns does the dataset contain?                          
+b) What are the data types of each column? Are there any missing values?
 
-### PROBLEM 2: Create a visualization that shows how the different features contributes to average grade. 
- 
-## Getting Started
+### Basic Descriptive Statistics
+In this section, these will be answered:
+a) What are the mean, median, and standard deviation of the streams column?                     
+b) What is the distribution of released_year and artist_count? Are there any noticeable trends or outliers?
+
+### Top Performers
+In this section, these will be answered:
+a) Which track has the highest number of streams? Display the top 5 most streamed tracks.                
+b) Who are the top 5 most frequent artists based on the number of tracks in the dataset?
+
+### Temporal Trends
+In this section, these will be answered:
+a) Analyze the trends in the number of tracks released over time. Plot the number of tracks released per year.              
+b) Does the number of tracks released per month follow any noticeable patterns? Which month sees the most releases?
+
+### Genre and Music Characteristics
+In this section, these will be answered:
+a) Examine the correlation between streams and musical attributes like bpm, danceability_%, and energy_%. Which attributes seem to influence streams the most?                
+b) Is there a correlation between danceability_% and energy_%? How about valence_% and acousticness_%?
+
+### Platform Popularity
+In this section, these will be answered:
+a) How do the numbers of tracks in spotify_playlists, spotify_charts, and apple_playlists compare? Which platform seems to favor the most popular tracks?               
 
 ### Dependencies
 * Anaconda Navigator
@@ -24,7 +45,7 @@ b) Filename: Mindy = [ “Name”, “Track”, “Electronics”, “Average >=
 ### Executing the program/s
 * How to run the program
 * In every code cell, press Shift + Enter to run that specific cell
-* It is necessary to run "import numpy as np" and "import matplotlib.pyplot as plt" as the python code is dependent on these libraries
+* It is necessary to run the necessary libraries as the python code is dependent on these
 * It is also necessary to store the .xlsx file in the same folder to use the dataframe
 
 ## Author
