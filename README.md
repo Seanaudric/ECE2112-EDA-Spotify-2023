@@ -37,12 +37,12 @@ b) Is there a correlation between danceability_% and energy_%? How about valence
 In this section, these will be answered: <br>
 a) How do the numbers of tracks in spotify_playlists, spotify_charts, and apple_playlists compare? Which platform seems to favor the most popular tracks?               
 
-### Dependencies
+## Dependencies
 * Anaconda Navigator
 * Jupyter Notebook
 * Any version of Windows/MacOS/Linus that can run the programs above
 
-### Executing the program/s
+## Executing the program/s
 * How to run the program
 * In every code cell, press Shift + Enter to run that specific cell
 * It is necessary to run the necessary libraries as the python code is dependent on these
