@@ -10,27 +10,27 @@ The notebook uploaded contains Python codes that deal with different sample prob
 
 ### Overview of Dataset
 In this section, these will be answered:
-a) How many rows and columns does the dataset contain?                          
+a) How many rows and columns does the dataset contain?                            
 b) What are the data types of each column? Are there any missing values?
 
 ### Basic Descriptive Statistics
 In this section, these will be answered:
-a) What are the mean, median, and standard deviation of the streams column?                     
+a) What are the mean, median, and standard deviation of the streams column?                       
 b) What is the distribution of released_year and artist_count? Are there any noticeable trends or outliers?
 
 ### Top Performers
 In this section, these will be answered:
-a) Which track has the highest number of streams? Display the top 5 most streamed tracks.                
+a) Which track has the highest number of streams? Display the top 5 most streamed tracks.                  
 b) Who are the top 5 most frequent artists based on the number of tracks in the dataset?
 
 ### Temporal Trends
 In this section, these will be answered:
-a) Analyze the trends in the number of tracks released over time. Plot the number of tracks released per year.              
+a) Analyze the trends in the number of tracks released over time. Plot the number of tracks released per year.                
 b) Does the number of tracks released per month follow any noticeable patterns? Which month sees the most releases?
 
 ### Genre and Music Characteristics
 In this section, these will be answered:
-a) Examine the correlation between streams and musical attributes like bpm, danceability_%, and energy_%. Which attributes seem to influence streams the most?                
+a) Examine the correlation between streams and musical attributes like bpm, danceability_%, and energy_%. Which attributes seem to influence streams the most?                  
 b) Is there a correlation between danceability_% and energy_%? How about valence_% and acousticness_%?
 
 ### Platform Popularity
