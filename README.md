@@ -50,10 +50,14 @@ a) How do the numbers of tracks in spotify_playlists, spotify_charts, and apple_
 
 ## Author
 Guevarra, Sean Audric L.
+ * Email: seanaudric.guevarra.eng@ust.edu.ph
+ * Github: https://github.com/Seanaudric
 
 ## Version History
-* 0.3
+* 0.4
   * Updated the readme file
+* 0.3
+  * Replaced the python notebook file
 * 0.2
   * Uploaded the .xlsx supplementary file
 * 0.1
