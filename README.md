@@ -10,13 +10,13 @@ The notebook uploaded contains Python codes that deal with different sample prob
 
 ### Overview of Dataset
 In this section, these will be answered:
-a) How many rows and columns does the dataset contain?  
-b) What are the data types of each column? Are there any missing values?
+ a) How many rows and columns does the dataset contain?  
+ b) What are the data types of each column? Are there any missing values?
 
 ### Basic Descriptive Statistics
 In this section, these will be answered:
-a) What are the mean, median, and standard deviation of the streams column?  
-b) What is the distribution of released_year and artist_count? Are there any noticeable trends or outliers?
+ a) What are the mean, median, and standard deviation of the streams column?  
+ b) What is the distribution of released_year and artist_count? Are there any noticeable trends or outliers?
 
 ### Top Performers
 In this section, these will be answered:
